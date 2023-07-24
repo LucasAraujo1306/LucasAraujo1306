@@ -45,4 +45,3 @@
   
 ##
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LucasAraujo1306/LucasAraujo1306/output/github-contribution-grid-snake.svg" />
